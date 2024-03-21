@@ -4,12 +4,6 @@
   box-shadow: 1px 2px 0px 1px gray;
 }
 
-.BRAND1:hover {
-  text-shadow: 2px 2px 6px black;
-  cursor: pointer;
-  color: white;
-}
-
 .Book:hover {
   color: rgb(2, 2, 80);
   box-shadow: 1px 1px 10px 1px black;
